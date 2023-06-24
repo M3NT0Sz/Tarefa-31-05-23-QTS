@@ -81,5 +81,11 @@ namespace projetorelatorio
             AniversariantesAlunos niver = new AniversariantesAlunos(cnsql);
             niver.ShowDialog();
         }
+
+        private void finançasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Financas Financas = new Financas(cnsql);
+            Financas.ShowDialog();
+        }
     }
 }

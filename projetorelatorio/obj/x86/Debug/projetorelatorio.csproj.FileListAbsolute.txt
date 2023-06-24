@@ -106,3 +106,24 @@ C:\Users\Matheus\Desktop\projetorelatorio\projetorelatorio\obj\x86\Debug\RdlComp
 C:\Users\Matheus\Desktop\projetorelatorio\projetorelatorio\obj\x86\Debug\RdlCompile.compiled
 C:\Users\Matheus\Desktop\projetorelatorio\projetorelatorio\bin\Debug\projetorelatorio.exe
 C:\Users\Matheus\Desktop\projetorelatorio\projetorelatorio\bin\Debug\projetorelatorio.pdb
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.exe
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.pdb
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\bin\Debug\projetorelatorio.exe
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\bin\Debug\projetorelatorio.pdb
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.csprojResolveAssemblyReference.cache
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.AniversariantesAlunos.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.AniversariantesUsuarios.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.CadastroUs.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.FMRprofessores.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.Form1.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.FRMbackup.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.FRMconsultaalunos.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.FRMconsultausuarios.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.FRMprincipal.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.FRMrelatorioalunos.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.FRMrelatoriousuarios.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.Properties.Resources.resources
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.csproj.GenerateResource.Cache
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\RdlCompile.cache
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Matheus Mendes\Documents\DS 3\Tarefa-31-05-23-QTS\projetorelatorio\obj\x86\Debug\projetorelatorio.Financas.resources

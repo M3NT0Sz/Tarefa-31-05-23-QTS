@@ -18,7 +18,8 @@ namespace projetorelatorio
             InitializeComponent();
         }
 
-        string cnsql = @"SERVER=172.16.0.123;DATABASE=escola;UID=sa;PASSWORD=123456";
+        string cnsql = @"SERVER=localhost;DATABASE=escola;UID=root;PASSWORD=";
+        //string cnsql = @"SERVER=172.16.0.123;DATABASE=escola;UID=sa;PASSWORD=123456";
 
 
         //criptografia MD5
